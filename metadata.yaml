@@ -1,0 +1,26 @@
+_repo: The-Hundred-Best-English-Poems_17768
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Gowans, Adam L. (Adam Luke)
+    alias: Gowans, A. L. (Adam Luke)
+    gutenberg_agent_id: '7589'
+    url: http://www.gutenberg.org/2009/agents/7589
+description: ''
+gutenberg_issued: '2006-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17768'
+  lccn: 04017933
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+title: The Hundred Best English Poems
+url: http://www.gutenberg.org/ebooks/17768
